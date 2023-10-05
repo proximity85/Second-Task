@@ -6,9 +6,6 @@ My favorite color is blue and language is german but i'm alraedy learning englis
 
 My favorite restaurants are:
 
-
-
-
 - Assado
 - BlockHouse
 - Stampedo
